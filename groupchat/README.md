@@ -1,6 +1,4 @@
 
-Install dependencies and setup database:
-
 ```sh
 virtualenv venv
 . venv/bin/activate

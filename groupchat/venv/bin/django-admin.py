@@ -1,4 +1,4 @@
-#!/home/shushant/Documents/Rubit/Alohomora/chat/venv/bin/python3
+#!/home/shushant/Documents/Rubit/chatapp-django-channels/groupchat/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

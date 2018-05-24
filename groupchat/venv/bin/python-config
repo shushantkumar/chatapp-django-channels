@@ -1,4 +1,4 @@
-#!/home/shushant/Documents/Rubit/Alohomora/chat/venv/bin/python
+#!/home/shushant/Documents/Rubit/chatapp-django-channels/groupchat/venv/bin/python
 
 import sys
 import getopt
